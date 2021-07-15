@@ -3,4 +3,5 @@ interface card{
     value: string;
     age: number;
     link: string;
+    age: string;
 }
